@@ -1,0 +1,57 @@
+C:\Users\dreni\Desktop\Pocket\Pocket\bin\Debug\Pocket.exe.config
+C:\Users\dreni\Desktop\Pocket\Pocket\bin\Debug\Pocket.exe
+C:\Users\dreni\Desktop\Pocket\Pocket\bin\Debug\Pocket.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.csprojAssemblyReference.cache
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Presentation_Layer.AddType.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Presentation_Layer.HomePage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Presentation_Layer.LoginPage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Presentation_Layer.SignUpPage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Properties.Resources.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.csproj.GenerateResource.cache
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.csproj.CopyComplete
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.exe
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Languages.lang_en.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\bin\Debug\en\Pocket.resources.dll
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Presentation_Layer.HomePage.en.resources
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\en\Pocket.resources.dll
+C:\Users\dreni\Desktop\Pocket\Pocket\obj\Debug\Pocket.Languages.lang_al.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.exe.config
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.exe
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\en\Pocket.resources.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.BLL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.BOL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.DAL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Dapper.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.BLL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.BOL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.DAL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Dapper.xml
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.csprojAssemblyReference.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Languages.lang_al.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Languages.lang_en.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.AddType.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.HomePage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.LoginPage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.SignUpPage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Properties.Resources.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.HomePage.en.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.csproj.GenerateResource.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\en\Pocket.resources.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.csproj.CopyComplete
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.exe
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.AddIncome.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.ChooseMonth.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.UpdateLoans.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.Presentation_Layer.Reports.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\itextsharp.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Help\Help_PocketApplication.chm
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.exe.manifest
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\bin\Debug\Pocket.application
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.exe.manifest
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Debug\Pocket.application

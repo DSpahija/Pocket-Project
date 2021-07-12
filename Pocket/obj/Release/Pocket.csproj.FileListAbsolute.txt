@@ -1,0 +1,15 @@
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.csprojAssemblyReference.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Languages.lang_al.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Languages.lang_en.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.AddIncome.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.AddType.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.ChooseMonth.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.HomePage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.LoginPage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.Reports.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.SignUpPage.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.UpdateLoans.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Properties.Resources.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.Presentation_Layer.HomePage.en.resources
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.csproj.GenerateResource.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket\obj\Release\Pocket.csproj.CoreCompileInputs.cache

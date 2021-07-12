@@ -1,0 +1,6 @@
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BLL\bin\Debug\Pocket.BLL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BLL\bin\Debug\Pocket.BLL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BLL\obj\Debug\Pocket.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BLL\obj\Debug\Pocket.BLL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BLL\obj\Debug\Pocket.BLL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BLL\obj\Debug\Pocket.BLL.csprojAssemblyReference.cache

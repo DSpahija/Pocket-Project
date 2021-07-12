@@ -1,0 +1,11 @@
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\bin\Release\Pocket.DAL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\bin\Release\Pocket.DAL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\bin\Release\Dapper.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\bin\Release\Pocket.BLL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\bin\Release\Pocket.BLL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\bin\Release\Dapper.xml
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\obj\Release\Pocket.DAL.csprojAssemblyReference.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\obj\Release\Pocket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\obj\Release\Pocket.DAL.csproj.CopyComplete
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\obj\Release\Pocket.DAL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.DAL\obj\Release\Pocket.DAL.pdb

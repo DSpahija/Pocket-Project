@@ -1,0 +1,14 @@
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Pocket.BOL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Pocket.BOL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Pocket.BLL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Pocket.DAL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Dapper.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Pocket.BLL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Pocket.DAL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\Dapper.xml
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\obj\Debug\Pocket.BOL.csprojAssemblyReference.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\obj\Debug\Pocket.BOL.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\obj\Debug\Pocket.BOL.csproj.CopyComplete
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\obj\Debug\Pocket.BOL.dll
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\obj\Debug\Pocket.BOL.pdb
+C:\Users\dreni\Desktop\Pocket\Pocket Project\Pocket.BOL\bin\Debug\itextsharp.dll
